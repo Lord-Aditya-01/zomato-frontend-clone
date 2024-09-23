@@ -57,6 +57,10 @@ img {
 }
 .online {
     font-weight: bold;
+    padding-left: 10px;
+}
+.offline {
+    padding-left: 10px;
 }
 #products {
     display: flex;
